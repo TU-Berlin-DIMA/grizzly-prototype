@@ -1,0 +1,18 @@
+add_source_grizzly(
+        AggregateOperator.cpp
+        FilterOperator.cpp
+        GenerateOperator.cpp
+        GroupByOperator.cpp
+        InputOperator.cpp
+        KeyOperator.cpp
+        MapOperator.cpp
+        Operator.cpp
+        PrintOperator.cpp
+        ReadOperator.cpp
+        ReadWindowOperator.cpp
+        WindowOperator.cpp
+        WriteOperator.cpp
+        WriteToMemOperator.cpp
+        SelectOperator.cpp
+        FinalWindowAggOperator.cpp
+)

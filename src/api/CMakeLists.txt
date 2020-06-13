@@ -1,0 +1,11 @@
+add_source_grizzly(
+        Aggregation.cpp
+        Assigner.cpp
+        Config.cpp
+        Field.cpp
+        Predicate.cpp
+        Query.cpp
+        Schema.cpp
+        Time.cpp
+        Trigger.cpp
+)
